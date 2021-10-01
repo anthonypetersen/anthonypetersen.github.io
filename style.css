@@ -1,0 +1,16 @@
+body {
+ 	background-color: #F5F5DC;
+}
+
+#pie_container {
+	background-color: white;
+	border-style: solid;
+	border-color: black;
+}
+
+#radar_container {
+	background-color: white;
+	border-style: solid;
+	border-style: black;
+	margin-top: 50px;
+}
