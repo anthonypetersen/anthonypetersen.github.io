@@ -10,3 +10,7 @@ The site shows the following based on the Hospital Inpatient Discharges API prov
 
 1) Proportion of cancer diagnoses by age group
 2) Average mortality code (rated 1-4) based on race, split out by gender
+
+
+
+All JavaScript code is contained within the "code.js" file found in the JS directory and all CSS styling is contained within the "style.css" file found in the CSS directory.
